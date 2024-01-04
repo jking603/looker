@@ -9,7 +9,7 @@
     visualization: {
         id: "@{vis_id}"
         label: "@{vis_label}"
-        file: "my_local.js"
+        file: "/dist/treemap.js"
         sri_hash: "my_sri_hash"
         dependencies: []
     }
